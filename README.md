@@ -1,2 +1,2 @@
 # Fish-Image-Classifier
-Classifying images of black basses
+Classifying Images of Black Basses: Largemouth, Spotted, Smallmouth, and Guadalupe Bass
